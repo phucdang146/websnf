@@ -1,0 +1,19 @@
+Mục đích của sitemap
+- Làm rõ mục tiêu và mục đích của site từ đó ra cấu trúc nội dung
+- Tránh nội dung bị lặp lại giữa các tang
+- Dẫn dắt nội dung hiệu quả
+- Dễ dàng phối hợp làm việc
+
+HOME
+- About
+   - History
+   - Mission statement
+   - Members 
+Service
+   - Training
+   - Recover
+- Blog
+   - Race tips
+   - Coaching
+   - Workout, plan.
+- Contact
