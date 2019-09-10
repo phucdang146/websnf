@@ -4,9 +4,11 @@ a{color:blue;
   text-decoration: none;}
 a:hover{
 	    color: pink;
-	    background: orange;	    
-}
+	    background: orange;}
 h1{
 	font-family: serif;
-	font-size:100pt;
-}
+	font-size:100pt;}
+.luidong{margin-left: 20px;}
+.khoangcach{margin-bottom: 100px;}
+.linkxanh{color: white;
+          background: black;}
